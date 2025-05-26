@@ -11,7 +11,7 @@ class Bar(Widget.Window):
             exclusivity="exclusive",
             monitor=monitor,
             namespace=f"ignis_BAR_{monitor}",
-            layer="top",
+            layer="bottom",
             kb_mode="none",
             child=Widget.CenterBox(
                 css_classes=["bar-widget"],
