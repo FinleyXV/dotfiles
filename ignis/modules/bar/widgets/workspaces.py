@@ -1,4 +1,7 @@
 from ignis.widgets import Widget
+from ignis.app import IgnisApp
+from ignis.services.applications import ApplicationsService, Application
+from ignis.menu_model import IgnisMenuModel, IgnisMenuItem, IgnisMenuSeparator
 
 class Apps(Widget.Box):
     def __init__(self):
