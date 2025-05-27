@@ -3,7 +3,7 @@
 ## Clone repository
 
 ```
-git clone https://github.com/linkfrg/dotfiles.git --depth 1 --branch main
+git clone https://github.com/FinleyXV/dotfiles.git --depth 1 --branch main
 ```
 
 ## Copy config files
